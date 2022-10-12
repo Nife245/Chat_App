@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349606941807",
+    "project_id": "n-chat-71cc4",
+    "storage_bucket": "n-chat-71cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349606941807:android:a4adb222e5ba6bceb1699a",
+        "android_client_info": {
+          "package_name": "com.nifeferanmi.nchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349606941807-q9etajp92p6igorf1aaa36tbn5t9n08i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOxQ5LK3oOprjmdUFFnSVkDdIc5T0NI1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349606941807-q9etajp92p6igorf1aaa36tbn5t9n08i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
